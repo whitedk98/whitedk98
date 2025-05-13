@@ -54,5 +54,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whitedk98&show_icons=true&theme=radical)
 
-[![Lang stats](https://github-readme-stats.vercel.app/api/wakatime?username=whitedk98)](https://github.com/anuraghazra/github-readme-stats)
+[![Lang stats](https://github-readme-stats.vercel.app/api/wakatime?username=whitedk98@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
 
