@@ -52,7 +52,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whitedk98&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitedk98&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitedk98&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedk98&layout=compact" height="180" style="margin-left: 20px;" />
+</div>
 
