@@ -3,6 +3,8 @@
 ### 🎓 *M.S. Student in Electronic Engineering*  
 *Kwangwoon University (2021.03 ~ 2023.02)*
 
+### *Assistant Research Engineer*
+*Ksign Corp (2023.03 ~ )
 ---
 
 ## 🧠 Research Interests
